@@ -6,10 +6,6 @@
 
 ### 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVyZXZoN2lyMWRoaTZnNWhtdGZ6dW9sb3FpZ3cxbWd0Z2t6eHFiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="320" alt="abstract-dev-gif">
-</p>
-
 * 🎓 Final-year Computer Science student passionate about building real-world tech solutions
 * 💻 Skilled in MERN Stack, Java Full Stack, and building scalable applications
 * 🤖 Enthusiast in AI, ML, and Data Science
@@ -101,19 +97,7 @@
 
 ---
 
-### 🌟 Fun Facts
-
-* 🌍 Always excited to explore tech trends and new places
-* 🏏 Lifelong cricket fan and team player
-* 💡 I learn best by building and experimenting with real-world projects
-
----
-
 ### 📫 Let’s Connect!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5iNGRzOGhoZnV2em8zZXo1YjZrcTVqZmpuM2UzZWVtOHB2azcwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" width="250" alt="connect-new-gif">
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saikumargangadhari/" target="_blank">
@@ -127,10 +111,6 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWczZXg4Y2xraGV2c3FybjN2bGVkZWdycmk4bzF5YWR3NGI2aWllNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="320" alt="typing-graph-gif">
-</p>
 
 ---
 
