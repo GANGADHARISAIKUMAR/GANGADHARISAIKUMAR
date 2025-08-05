@@ -102,4 +102,4 @@
 
 📫 **Let’s Connect:**  
 🔗 [GitHub Profile](https://github.com/GANGADHARISAIKUMAR)
-🔗 [LinkedIn Profile](www.linkedin.com/in/gangadhari-sai-kumar-191899332)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/gangadhari-sai-kumar-191899332)
