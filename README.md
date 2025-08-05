@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 🚀 About Me
+🚀 About Me
 
 🎓 I'm a final-year B.Tech student specializing in Computer Science, driven by a passion for building real-world tech solutions.
 
@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
