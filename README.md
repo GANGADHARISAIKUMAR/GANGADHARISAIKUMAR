@@ -6,6 +6,10 @@
 
 ### 🧑‍💻 About Me
 
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="coding-gif">
+</p>
+
 * 🎓 Final-year Computer Science student passionate about building real-world tech solutions
 * 💻 Skilled in MERN Stack, Java Full Stack, and building scalable applications
 * 🤖 Enthusiast in AI, ML, and Data Science
@@ -107,9 +111,26 @@
 
 ### 📫 Let’s Connect!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250" alt="connect-gif">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saikumargangadhari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/saikumargangadhari" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="typing-coding-gif">
+</p>
 
 ---
 
