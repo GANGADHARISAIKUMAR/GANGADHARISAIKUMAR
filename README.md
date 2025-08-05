@@ -1,6 +1,4 @@
-## Hi there 👋
-
-🚀 About Me
+# 🚀 About Me
 
 🎓 I'm a final-year B.Tech student specializing in Computer Science, driven by a passion for building real-world tech solutions.
 
@@ -21,26 +19,25 @@
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, MySQL  
 - **Cloud & DevOps**: AWS, Azure, Netlify, Git, GitHub Actions  
-- **AI/ML**: Python (NumPy, Pandas, scikit-learn), AI APIs  
+- **AI/ML**: Python (NumPy, Pandas, scikit-learn, OpenCV), AI APIs  
 - **Tools**: VS Code, Postman, Docker (Learning), Terraform (Learning)
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project                | Description                                                                   | Tech Stack                      |
-|------------------------|-------------------------------------------------------------------------------|---------------------------------|
-| 💰 **FinSavvy**         | AI-powered financial planning app for budgeting and tracking expenses.         | MERN Stack, AI APIs             |
-| 🧾 **Bill Management System** | Simplifies bill tracking with notifications and automation.                   | React, Node.js, MongoDB         |
-| 📈 **QuantMint**        | Analyzes stock trends with predictive analytics and insights.                 | Python, Machine Learning        |
+| Project                                     | Description                                                                 | Tech Stack                      |
+|---------------------------------------------|-----------------------------------------------------------------------------|---------------------------------|
+| 📚 **Library Management System**             | Manages book inventory, lending, returns, and user activity tracking.       | Java, JDBC, MySQL, Java Swing   |
+| 🍱 **Food Recognition & Nutrition Estimation** | Uses computer vision to identify food items and estimate nutritional value. | Python, OpenCV, AI APIs         |
 
 ---
 
 ## 📚 Currently Learning
 
-- 🚀 Kubernetes & Terraform for DevOps
-- 🧠 Generative AI and Large Language Models (LLMs)
-- ☁️ Advanced Cloud Deployment Strategies
+- 🚀 Kubernetes & Terraform for DevOps  
+- 🧠 Generative AI and Large Language Models (LLMs)  
+- ☁️ Advanced Cloud Deployment Strategies  
 
 ---
 
@@ -62,18 +59,3 @@
 
 📫 **Let’s Connect:**  
 🔗 [GitHub Profile](https://github.com/GANGADHARISAIKUMAR)
-
-
-**GANGADHARISAIKUMAR/GANGADHARISAIKUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
