@@ -120,8 +120,6 @@
 
 ---
 
-## 📊 My GitHub Activity
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNqOXQyZmh4dnVwM2JpM3ZxYzJ5azIwamdteGIxYXRlNnVkdDltYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif" width="350" alt="footer-dev-gif" />
 </p>
