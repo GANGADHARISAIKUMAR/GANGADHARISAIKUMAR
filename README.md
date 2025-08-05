@@ -7,7 +7,7 @@
 ### 🧑‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="coding-gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVyZXZoN2lyMWRoaTZnNWhtdGZ6dW9sb3FpZ3cxbWd0Z2t6eHFiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="320" alt="abstract-dev-gif">
 </p>
 
 * 🎓 Final-year Computer Science student passionate about building real-world tech solutions
@@ -112,7 +112,7 @@
 ### 📫 Let’s Connect!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250" alt="connect-gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5iNGRzOGhoZnV2em8zZXo1YjZrcTVqZmpuM2UzZWVtOHB2azcwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" width="250" alt="connect-new-gif">
 </p>
 
 <p align="center">
@@ -129,7 +129,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="typing-coding-gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWczZXg4Y2xraGV2c3FybjN2bGVkZWdycmk4bzF5YWR3NGI2aWllNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="320" alt="typing-graph-gif">
 </p>
 
 ---
